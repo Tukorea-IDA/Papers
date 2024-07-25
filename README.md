@@ -33,3 +33,5 @@
 # Scheduling
 
  * A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities, 2020, IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+
+ * A Generation and Repair Approach to Scheduling Semiconductor Packaging Facilities Using Case-Based Reasoning, 2023, IEEE Access
