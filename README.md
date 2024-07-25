@@ -12,6 +12,9 @@
 
  * Physics-informed machine learning: case studies for weather and climate modelling, Philosophical Transactions of the Royal Society
 
+ * Discovering governing equations from data by sparseidentification of nonlinear dynamical systems, PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES
+
+
 ----
 # Anomaly Detection
 
@@ -19,3 +22,9 @@
 
  * A clustering algorithm-based control chart for inhomogeneously distributed TFT-LCD processes,  International Journal of Production Research
 
+ * LOF: Identifying Density-Based Local Outliers, 
+
+----
+# Machine Learning
+
+ * Random Forests, Machine Learning
