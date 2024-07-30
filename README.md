@@ -34,6 +34,8 @@
 
  * A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities, 2020, IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
 
+ * An efficient two-stage genetic algorithm for a flexible job-shop scheduling problem with sequence dependent attached_detached setup machine release date and lag-time, 2020, Computers & Industrial Engineering
+
  * A Generation and Repair Approach to Scheduling Semiconductor Packaging Facilities Using Case-Based Reasoning, 2023, IEEE Access
 
- * An efficient two-stage genetic algorithm for a flexible job-shop scheduling problem with sequence dependent attached_detached setup machine release date and lag-time, 2020, Computers & Industrial Engineering
+ 
